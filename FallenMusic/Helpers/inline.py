@@ -45,20 +45,20 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏",
+            text="ᴍᴇᴏᴡ ᴍᴇᴏᴡ",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="𝐇𝐄𝐋𝐏 & 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="🫧𝐂𝐇𝐀𝐍𝐍𝐄𝐋🫧", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨𝐒𝐔𝐏𝐏𝐎𝐑𝐓✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="☠𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑☠", url="https://t.me/ABOUT_YOUR_SHIV"
+            text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/lll_SARKAR_lll"
         ),
-        InlineKeyboardButton(text="😈𝐎𝐖𝐍𝐄𝐑😈", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -66,17 +66,17 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏",
+            text="ᴍᴇᴏᴡ ᴍᴇᴏᴡ",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-        InlineKeyboardButton(text="🫧𝐂𝐇𝐀𝐍𝐍𝐄𝐋🫧", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨𝐒𝐔𝐏𝐏𝐎𝐑𝐓✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="☠𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑☠", url="https://t.me/ABOUT_YOUR_SHIV"
+            text="ᴅᴇᴠʟᴏᴘᴇʀ", url="https://t.me/lll_SARKAR_lll"
         ),
         InlineKeyboardButton(text="", user_id=config.OWNER_ID),
     ],
@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboardButton(text="✨𝐒𝐔𝐏𝐏𝐎𝐑𝐓✨", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHAT)],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
