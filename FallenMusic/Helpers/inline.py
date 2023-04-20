@@ -45,20 +45,22 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴍᴇᴏᴡ ᴍᴇᴏᴡ",
+            text="❮ 💥𝐀𝐝𝐝 𝐌𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩💥 ❯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="
+❮ 💥𝐇𝐞𝐥𝐩 💥❯", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="
+❮ 💥𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥❯", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="❮ 💥𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💥❯", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/lll_SARKAR_lll"
+            text="❮ 💥𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 💥❯", url="https://t.me/lll_SARKAR_lll"
         ),
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="❮ 💥𝐎𝐰𝐧𝐞𝐫 💥❯", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -66,19 +68,19 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴍᴇᴏᴡ ᴍᴇᴏᴡ",
+            text="❮ 💥𝐀𝐝𝐝 𝐌𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩💥 ❯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-        InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="❮ 💥𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥❯", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="❮ 💥𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💥❯", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴅᴇᴠʟᴏᴘᴇʀ", url="https://t.me/lll_SARKAR_lll"
+            text="❮ 💥𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 💥❯", url="https://t.me/lll_SARKAR_lll"
         ),
-        InlineKeyboardButton(text="", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="❮ 💥𝐎𝐰𝐧𝐞𝐫 💥❯", user_id=config.OWNER_ID),
     ],
 ]
 
