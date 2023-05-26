@@ -31,11 +31,11 @@ PM_START_TEXT = """
 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🌷
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★𝐂𝐑𝐄𝐀𝐓𝐎𝐑 [𝗦𝗔𝗥𝗞𝗔𝗥](https://t.me/ll_SARKAR_OP_ll)
+┣★𝐂𝐑𝐄𝐀𝐓𝐎𝐑 [𝐑𝐀𝐃𝐇𝐀](https://t.me/Cutiiiiiiiiiiie)
 ┣★𝐔𝐏𝐃𝐀𝐓𝐄 [𝗝𝗢𝗜𝗡](https://t.me/TKS_JOIN)
 ┣★𝐆𝐑𝐎𝐔𝐏 [𝗖𝗛𝗔𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/+I67bz3RT2cA3ODU1)
 ┗━━━━━━━━━━━━━━━━━┛
-[𝐏𝐎𝐖𝐄𝐑 𝐁𝐘](https://t.me/ll_SARKAR_OP_ll)
+𝐏𝐎𝐖𝐄𝐑𝐃 𝐁𝐘[𝐑𝐀𝐃𝐇𝐀](https://t.me/Cutiiiiiiiiiiie)
 """
 
 START_TEXT = """
