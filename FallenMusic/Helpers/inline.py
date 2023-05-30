@@ -45,19 +45,19 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="❮ 💥𝐀𝐝𝐝 𝐌𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩💥 ❯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+            text="❮💥𝐀𝐃𝐃 𝐌𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏💥❯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="❮ 💥𝐇𝐞𝐥𝐩 💥❯", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="❮💥𝗛𝗘𝗟𝗣💥❯", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❮ 💥𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥❯", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="❮ 💥𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💥❯", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="❮💥𝗨𝗣𝗗𝗔𝗧𝗘💥❯", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="❮💥𝗚𝗥𝗢𝗨𝗣💥❯", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="❮ 💥𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 💥❯", url="https://t.me/lll_SARKAR_lll"
+            text="❮💥𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥💥❯", url="https://t.me/ll_SARKAR_OP_ll"
         ),
-        InlineKeyboardButton(text="❮ 💥𝐎𝐰𝐧𝐞𝐫 💥❯", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="❮💥𝗢𝗪𝗡𝗘𝗥💥❯", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -65,19 +65,19 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="❮ 💥𝐀𝐝𝐝 𝐌𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩💥 ❯",
+            text="❮💥𝗔𝗗𝗗 𝗠𝗘 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣💥❯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-        InlineKeyboardButton(text="❮ 💥𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥❯", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="❮ 💥𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💥❯", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="❮💥𝗨𝗣𝗗𝗔𝗧𝗘💥❯", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="❮💥𝗚𝗥𝗢𝗨𝗣💥❯", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="❮ 💥𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 💥❯", url="https://t.me/lll_SARKAR_lll"
+            text="❮💥𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥💥❯", url="https://t.me/ll_SARKAR_OP_ll"
         ),
-        InlineKeyboardButton(text="❮ 💥𝐎𝐰𝐧𝐞𝐫 💥❯", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="❮💥𝗢𝗪𝗡𝗘𝗥💥❯", user_id=config.OWNER_ID),
     ],
 ]
 
